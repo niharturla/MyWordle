@@ -184,8 +184,3 @@ Make sure Docker Desktop (or Docker Engine) is running and you have sufficient d
 docker --version
 ```
 ---
-## License
-MIT License — feel free to use, modify, and distribute.
----
-Built with [Lovable](https://lovable.dev) and [TanStack Start](https://tanstack.com/start).
-
