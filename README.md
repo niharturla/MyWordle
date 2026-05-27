@@ -1,6 +1,9 @@
  Wordly — Daily 5-Letter Word Game
 A clean, modern Wordle-style word guessing game built with React and TanStack Start. Guess the hidden 5-letter word in 6 tries. Play the daily puzzle or practice with unlimited random games.
 ![Game Screenshot](https://via.placeholder.com/800x400?text=Wordly+Game)
+
+Run: https://mywordleapp.lovable.app/
+
 ## Features
 - **Daily Puzzle** — A new word every day, shared by all players
 - **Practice Mode** — Play unlimited random games after completing the daily
